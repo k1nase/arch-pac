@@ -1,16 +1,11 @@
 adapta-gtk-theme
 alacritty
 arandr
-archlinux-themes-sddm
-arcolinux-logout
 autoconf
 automake
 awesome
 base
-betterlockscreen
 bison
-bluez-git
-darkman
 debugedit
 discord
 dmenu
@@ -42,7 +37,6 @@ nextcloud-client
 nitrogen
 numlockx
 okular
-pamac-aur
 patch
 pavucontrol
 picom
@@ -50,9 +44,6 @@ pkgconf
 pulseaudio
 ranger
 sddm
-slack-desktop
-spacefm
-sublime-text-4
 sudo
 texinfo
 texlive-bibtexextra
@@ -69,7 +60,6 @@ texlive-publishers
 texlive-science
 texstudio
 thunderbird
-timeshift
 tint2
 ttf-font-awesome
 unzip
@@ -77,4 +67,3 @@ volumeicon
 which
 xorg-server
 xterm
-yay
