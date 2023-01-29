@@ -1,4 +1,4 @@
 # arch-pac
 
-pac.txt -> pacman native installed packages
-aur.txt -> yay installed packages
+pac.txt -> pacman native installed packages "pacman -Qen | awk '{print $1}' > pac.txt"
+aur.txt -> yay installed packages 
