@@ -1,0 +1,13 @@
+archlinux-themes-sddm 2.0-1
+arcolinux-logout 22.05_27-1
+betterlockscreen 4.0.4-1
+bluez-git 1:5.66.r55.gc18e3bf92-1
+darkman 1.4.0-2
+i3lock-color 2.13.c.4-1
+libpamac-aur 11.4.1-1
+pamac-aur 10.4.3-1
+slack-desktop 4.29.149-1
+spacefm 1.0.6-3
+sublime-text-4 4.4143-4
+timeshift 22.11.2-1
+yay 11.3.2-1
